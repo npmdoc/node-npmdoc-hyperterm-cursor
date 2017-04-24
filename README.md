@@ -1,4 +1,7 @@
-# api documentation for  [hyperterm-cursor (v0.0.3)](https://github.com/alvaropinot/hyperterm-cursor#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperterm-cursor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperterm-cursor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperterm-cursor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperterm-cursor)
+# npmdoc-hyperterm-cursor
+
+#### api documentation for  [hyperterm-cursor (v0.0.3)](https://github.com/alvaropinot/hyperterm-cursor#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperterm-cursor.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperterm-cursor) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperterm-cursor.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperterm-cursor)
+
 #### hyperterm custom cursor
 
 [![NPM](https://nodei.co/npm/hyperterm-cursor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperterm-cursor)
@@ -61,7 +64,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.3"
+    "version": "0.0.3",
+    "bin": {}
 }
 ```
 
